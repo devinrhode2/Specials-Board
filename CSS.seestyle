@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.CSS">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/CSS/Inside curly brackets"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#cc762e" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Attribute state"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#a0c25f" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/AutodocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/String"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/SingleString"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Round bracket"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

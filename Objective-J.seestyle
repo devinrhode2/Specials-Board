@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Objective-J">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/Objective-J/Numbers"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Function Calls"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/JavaScript Reserved For Future Use Keywords"
+    color="#ceb77b" inverted-color="#ffff9f"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/JavaScript Keywords"
+    color="#cc762e" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Objective-J Keywords"
+    color="#f0984a" inverted-color="#ee8ac9"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Objective-J Directives"
+    color="#5f61a8" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Objective-J Selector"
+    color="#cc762e" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Cappuccino Classes"
+    color="#d23850" inverted-color="#ee8ac9"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Cappuccino Types"
+    color="#b38fda" inverted-color="#bf7fff"  font-style="italic" font-weight="normal" />
+  <style id="/Objective-J/Cappuccino Constants"
+    color="#b38fda" inverted-color="#bf7fff"  font-style="italic" font-weight="normal" />
+  <style id="/Objective-J/Objective-J Imports"
+    color="#9e5221" inverted-color="#deae97"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Characters"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Objective-J/Autodoc Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Objective-J/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Objective-J/Single Line Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Objective-J/String"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

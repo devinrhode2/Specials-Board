@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Java">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/Java/Keywords"
+    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Java/Classes"
+    color="#ffc05c" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
+  <style id="/Java/Numbers"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Java/FunctionRegex"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Java/Preprocessor"
+    color="#8d5526" inverted-color="#deae97"  font-style="normal" font-weight="normal" />
+  <style id="/Java/Characters"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Java/JavadocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Java/JavadocTags"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Java/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Java/SingleComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Java/Strings"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
