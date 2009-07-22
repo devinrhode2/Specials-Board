@@ -1,0 +1,34 @@
+Specials Board, The Railscast Theme for Coda by Joseph Bergantine (http://kinsadesign.com) is released under a Creative Commons Attribution Non-Commercial Share-Alike 3.0 License.
+
+It is based on Ryan Bates' beautiful Railcast Theme for TextMate (http://railscasts.com/about) as well as its inspiration, idlefingers by Damien Timewell (http://fluidsyntax.com/blog/articles/idlefingers-textmate-theme).
+
+
+
+Specials board includes .seestyle files for all programming languages that Coda 1.6.4 supports natively. At this time those languages are:
+
+* ASP-HTML
+* ActionScript
+* CFML
+* CSS
+* ERB
+* HTML
+* JSP-HTML
+* Java
+* Javascript
+* LassoScript
+* Objective-J
+* PHP-HTML
+* Perl
+* Ruby
+* SQL
+* Smarty
+* XML
+
+
+
+Installation:
+
+Coda let's you import color sets from an XML file with the extension .seestyle on a per-language basis. To install this seestyle theme, download and unzip the package. Then, open Coda and go to System Preferences > Colors. You might want to go through and back up each of the language sets by clicking Export... When you’re done with that click Import... and choose the files, one at a time to bring in. You'll also want to switch your background color to #2b2b2b and your foreground color to #e6e1dc.
+
+I'm using Panic Sans as the typeface in the screencaps. Inconsolata (http://www.levien.com/type/myfonts/inconsolata.html) is an awesome free alternative.
+
