@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.i18n">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/i18n/Keywords"
+    color="#cc762e" inverted-color="#fa93ce"  font-style="normal" font-weight="bold" />
+  <style id="/i18n/SingleComment"
+    color="#666666" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
+  <style id="/i18n/String"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
