@@ -40,8 +40,6 @@ Installation:
 
 Coda let's you import color sets from an XML file with the extension .seestyle on a per-language basis. To install this seestyle theme, download and unzip the package. Then, open Coda and go to System Preferences > Colors. You might want to go through and back up each of the language sets by clicking Export... When you’re done with that click Import... and choose the files, one at a time to bring in. You'll also want to switch your background color to #2b2b2b and your foreground color to #e6e1dc.
 
-I'm using Panic Sans as the typeface in the screencaps. Inconsolata (http://www.levien.com/type/myfonts/inconsolata.html) is an awesome free alternative.
-
 
 
 Reverting: 
