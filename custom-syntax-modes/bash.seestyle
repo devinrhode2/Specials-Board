@@ -10,7 +10,7 @@
   <style id="/bash/Builtin functions"
     color="#da4632" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/Unix commands"
-    color="#5eb2de" inverted-color="#ff77ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#ff77ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/Numbers"
     color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/Characters"
@@ -19,19 +19,19 @@
     color="#ffc05c" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/Preprocessor"
     color="#8d5526" inverted-color="#deae97"  font-style="normal" font-weight="normal" />
+  <style id="/bash/Variables"
+    color="#c9d0ff" inverted-color="#f5933b"  font-style="normal" font-weight="normal" />
   <style id="/bash/SingleComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/bash/String with double quotes"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/bash/String with single quotes"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Backticks"
-    color="#a0c25f" inverted-color="#dd77ff"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Variables"
-    color="#c9d0ff" inverted-color="#f5933b"  font-style="normal" font-weight="normal" />
   <style id="/bash/Variables in double quoted Strings"
     color="#c9d0ff" inverted-color="#f5933b"  font-style="normal" font-weight="normal" />
+  <style id="/bash/String with single quotes"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/bash/Variables in single quoted Strings"
     color="#c9d0ff" inverted-color="#f5933b"  font-style="normal" font-weight="normal" />
+  <style id="/bash/Backticks"
+    color="#a0c25f" inverted-color="#dd77ff"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>
