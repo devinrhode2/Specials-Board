@@ -31,10 +31,20 @@
     color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with double quotes"
     color="#a0c25f" inverted-color="#f28720"  font-style="italic" font-weight="normal" />
-  <style id="/Ruby/test"
-    color="#669999" inverted-color="#669999"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Embedded Expression"
+    color="#b80f15" inverted-color="#737373"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with single quotes"
     color="#a0c25f" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q1"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent /"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q2"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with percent Q3"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Strings with parenthesis"
+    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Heredoc"
     color="#a0c25f" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
   <style id="/Ruby/Backticks"
@@ -42,7 +52,9 @@
   <style id="/Ruby/Singleline Comment"
     color="#666666" inverted-color="#ff4a4a"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Regexp"
-    color="#a0c25f" inverted-color="#ff38fa"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/POD Comments"
     color="#666666" inverted-color="#ff7f7f"  font-style="normal" font-weight="normal" />
 </mode>

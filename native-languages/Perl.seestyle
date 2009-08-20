@@ -38,13 +38,13 @@
   <style id="/Perl/POD style comments"
     color="#666666" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Regular Expressions"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Regular Expressions 2"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Regular Expressions 3"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Regular Expressions 4"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Singleline Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Perl/String with double quotes"

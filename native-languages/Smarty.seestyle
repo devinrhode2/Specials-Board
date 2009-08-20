@@ -58,7 +58,9 @@
   <style id="/Javascript/SingleComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Regular Expressions"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/String"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/SingleString"
@@ -91,16 +93,16 @@
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/Round bracket"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/XML/CDATA"
-    color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
-  <style id="/XML/Escape"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
-  <style id="/XML/Doctype"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/XML/Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/XML/SGML Double Dash"
     color="#cc4232" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/XML/CDATA"
+    color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Doctype"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Escape"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Smarty/HTML Tags"
     color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/Smarty/Attributes in HTML Tags"
