@@ -38,19 +38,19 @@
   <style id="/Ruby/String with double quotes"
     color="#a0c25f" inverted-color="#f28720"  font-style="italic" font-weight="normal" />
   <style id="/Ruby/Embedded Expression"
-    color="#b80f15" inverted-color="#737373"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#737373"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with single quotes"
     color="#a0c25f" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q1"
-    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent /"
-    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q2"
-    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q3"
-    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with parenthesis"
-    color="#760f15" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Heredoc"
     color="#a0c25f" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
   <style id="/Ruby/Backticks"
