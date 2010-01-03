@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Ruby">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#fefefe" inverted-background-color="#000000" />
+  <style id="/Ruby/Literals"
+    color="#0000cc" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Attribute Definitions"
+    color="#0000cc" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Definitions"
+    color="#881350" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Keywords"
+    color="#881350" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Functions"
+    color="#881350" inverted-color="#9469f9"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Classes"
+    color="#881350" inverted-color="#9469f9"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Builtin Globals"
+    color="#a1617a" inverted-color="#9e5e77"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Numbers"
+    color="#0000ff" inverted-color="#4afc5b"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Symbols"
+    color="#d6771c" inverted-color="#fac586"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Instance Variables"
+    color="#c94b16" inverted-color="#6699cc"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Class Variables"
+    color="#008c8c" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Global Variables"
+    color="#8a578f" inverted-color="#a370a8"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Hexadecimal Characters"
+    color="#0000ff" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/String with double quotes"
+    color="#760f15" inverted-color="#f28720"  font-style="italic" font-weight="normal" />
+  <style id="/Ruby/test"
+    color="#669999" inverted-color="#669999"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/String with single quotes"
+    color="#760f15" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
+  <style id="/Ruby/Heredoc"
+    color="#760f15" inverted-color="#f48700"  font-style="italic" font-weight="normal" />
+  <style id="/Ruby/Backticks"
+    color="#b80f15" inverted-color="#737373"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Singleline Comment"
+    color="#236e25" inverted-color="#ff4a4a"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/Regexp"
+    color="#c700c2" inverted-color="#ff38fa"  font-style="normal" font-weight="normal" />
+  <style id="/Ruby/POD Comments"
+    color="#800000" inverted-color="#ff7f7f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
