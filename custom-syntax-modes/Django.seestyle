@@ -42,9 +42,9 @@
   <style id="/Python/Singleline Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Python/String with triple double quotes"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with triple single quotes"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with double quotes"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with single quotes"

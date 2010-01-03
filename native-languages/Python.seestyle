@@ -6,7 +6,7 @@
   <style id="/Python/Special Attributes"
     color="#cc7832" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
   <style id="/Python/Built-in Constants"
-    color="#9e3250" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Python/Types"
     color="#cc7832" inverted-color="#4cff4d"  font-style="normal" font-weight="normal" />
   <style id="/Python/Exceptions"
@@ -22,9 +22,9 @@
   <style id="/Python/Singleline Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Python/String with triple double quotes"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with triple single quotes"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with double quotes"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Python/String with single quotes"
