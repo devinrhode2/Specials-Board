@@ -12,13 +12,13 @@
   <style id="/Python/Exceptions"
     color="#f79600" inverted-color="#ff9e08"  font-style="normal" font-weight="normal" />
   <style id="/Python/Special Methods"
-    color="#cc7832" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
   <style id="/Python/Built-In Functions"
     color="#da4632" inverted-color="#bb77ff"  font-style="normal" font-weight="normal" />
   <style id="/Python/Keywords"
     color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Python/Numbers"
-    color="#a0c25f" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Python/Singleline Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/Python/String with triple double quotes"

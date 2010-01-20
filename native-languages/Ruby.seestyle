@@ -18,9 +18,9 @@
   <style id="/Ruby/Builtin Globals"
     color="#da4632" inverted-color="#9e5e77"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
-    color="#a0c25f" inverted-color="#4afc5b"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#4afc5b"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Symbols"
-    color="#6c99bb" inverted-color="#fac586"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#fac586"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Instance Variables"
     color="#c9d0ff" inverted-color="#6699cc"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Class Variables"
