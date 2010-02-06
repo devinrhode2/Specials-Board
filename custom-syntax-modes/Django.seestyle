@@ -10,7 +10,7 @@
   <style id="/Django/Django Database API"
     color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Exceptions"
-    color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+    color="#f79600" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django URLConf"
     color="#da4632" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Common Objects"
