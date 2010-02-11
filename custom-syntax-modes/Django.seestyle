@@ -16,11 +16,11 @@
   <style id="/Django/Django Common Objects"
     color="#c9d0ff" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Model Fields"
-    color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Form Fields"
-    color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Widgets"
-    color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Django/Django Authentication"
     color="#ff8080" inverted-color="#7fffff"  font-style="normal" font-weight="normal" />
   <style id="/Python/Special Attributes"
