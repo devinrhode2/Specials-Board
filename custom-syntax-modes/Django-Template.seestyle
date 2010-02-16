@@ -13,10 +13,10 @@
     color="#c9d0ff" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Template Tags"
     color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/Filters"
-    color="#6c99bb" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Context Variables"
     color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
+  <style id="/Django-Template/Filters"
+    color="#6c99bb" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Double Quoted Strings"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Single Quoted Strings"
