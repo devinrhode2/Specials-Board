@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.Ruby">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
   <style id="/Ruby/Literals"
     color="#6c99bb" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Attribute Definitions"

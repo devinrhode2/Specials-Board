@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.CFML">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
   <style id="/CFML/Output Variables"
     color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
   <style id="/XML/Entities"
@@ -123,12 +123,14 @@
     color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/SQL/FunctionRegex"
     color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/CFML/Query Comment"
+    color="#236e25" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/CFML/Opening Query Tag"
     color="#cc4232" inverted-color="#eb666a"  font-style="normal" font-weight="normal" />
   <style id="/CFML/CFML Attributes in Tags"
     color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
-  <style id="/CFML/Query Parameter"
-    color="#cc4232" inverted-color="#eb666a"  font-style="normal" font-weight="normal" />
+  <style id="/CFML/CFML self-closing Tags in Query"
+    color="#991418" inverted-color="#eb666a"  font-style="normal" font-weight="normal" />
   <style id="/CFML/CFML Tags"
     color="#ffc05c" inverted-color="#eb666a"  font-style="normal" font-weight="normal" />
   <style id="/CFML/HTML Tags"

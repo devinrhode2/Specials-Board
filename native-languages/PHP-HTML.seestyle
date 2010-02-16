@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.PHP-HTML">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
   <style id="/PHP-HTML/Entities"
     color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP"
@@ -29,7 +29,9 @@
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/PHP String"
     color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML/Variables"
+  <style id="/PHP-HTML/Expanded Variables"
+    color="#c9d0ff" inverted-color="#e96b36"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/Expanded Variables 2"
     color="#c9d0ff" inverted-color="#e96b36"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP String2"
     color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />

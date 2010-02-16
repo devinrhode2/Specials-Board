@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.LassoScript-HTML">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
   <style id="/XML/Entities"
     color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript 1"
