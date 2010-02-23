@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.i18n">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
   <style id="/i18n/Keywords"
     color="#cc762e" inverted-color="#fa93ce"  font-style="normal" font-weight="normal" />
   <style id="/i18n/SingleComment"

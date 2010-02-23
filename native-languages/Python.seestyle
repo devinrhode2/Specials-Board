@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.Python">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#202020" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
   <style id="/Python/Special Attributes"
     color="#cc7832" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
   <style id="/Python/Built-in Constants"
