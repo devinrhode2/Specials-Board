@@ -14,7 +14,7 @@
   <style id="/Perl/Hexadecimal Characters"
     color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Perl/FunctionRegex"
-    color="#ffc05c" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/Perl/Perl Variables"
     color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
   <style id="/Perl/q Operators with Slashes"

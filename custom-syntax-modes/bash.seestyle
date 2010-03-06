@@ -16,7 +16,7 @@
   <style id="/bash/Characters"
     color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/FunctionRegex"
-    color="#ffc05c" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/bash/Preprocessor"
     color="#8d5526" inverted-color="#deae97"  font-style="normal" font-weight="normal" />
   <style id="/bash/Variables"
