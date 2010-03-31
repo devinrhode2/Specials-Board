@@ -38,15 +38,15 @@
   <style id="/PHP-HTML/PHP Heredoc"
     color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Comment"
-    color="#aaaaaa" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/SGML Double Dash"
     color="#cc4232" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/CDATA"
     color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/Doctype"
-    color="#aaaaaa" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/Escape"
-    color="#aaaaaa" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/Inline CSS"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Style Tags"
