@@ -89,7 +89,7 @@
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/Round bracket"
+  <style id="/CSS/URL"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/ASP-HTML/HTMLComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />

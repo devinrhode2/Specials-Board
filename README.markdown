@@ -10,6 +10,11 @@ Seestyles for the custom syntax modes: bash, gettext i18n, and Makefile courtesy
 
 Specials Board is based on Ryan Bates' beautiful [Railcast Theme for TextMate](http://railscasts.com/about) as well as its inspiration, [idlefingers by Damien Timewell](http://fluidsyntax.com/blog/articles/idlefingers-textmate-theme).
 
+Requirements
+------------
+
+Panic Coda 1.6.11 or higher. For Panic Coda Versions less than 1.6.11 use [Specials Board v2.1](http://github.com/jbergantine/Specials-Board/downloads)
+
 Installation
 ------------
 
