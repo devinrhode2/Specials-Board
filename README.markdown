@@ -1,5 +1,5 @@
-cSpecials Board: A Light-On-Dark .seestyle Theme for Panic Coda
-=================================================================
+Specials Board: A Light-On-Dark .seestyle Theme for Panic Coda
+==============================================================
 
 License
 -------
