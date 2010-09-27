@@ -1,4 +1,4 @@
-Specials Board: A Light-On-Dark .seestyle Theme for Panic Coda
+cSpecials Board: A Light-On-Dark .seestyle Theme for Panic Coda
 =================================================================
 
 License
@@ -80,6 +80,8 @@ Specials Board contains syntax highlighting for the following mode/version combi
 The bash mode can be extracted from the SubEthaEdit package. View Rogier Spieker's instructions in the Coda Users Google Group under the thread [Syntax highlighting for shell scripts?](http://groups.google.com/group/coda-users/browse_thread/thread/22c3ff5eefce04ad/dfa3baebaa3afced?pli=1)
 
 The GNU gettext strings (i18n), Makefile, and Django Template modes can be [downloaded from SubEthaEdit's mode page](http://www.codingmonkeys.de/subethaedit/modes.html). [A more up-to-date version of the Django Template mode can also be pulled from GitHub](http://github.com/jbergantine/Django-Template).
+
+The YAML mode can be [downloaded from GitHub](http://github.com/stuffmc/YAML.mode).
 
 ### Custom Mode Installation
 
