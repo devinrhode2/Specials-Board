@@ -64,6 +64,10 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * Django-Template (CFBundleVersion 1.0 - 1.1.6 by Joseph Bergantine)
 * YAML (CFBundleVersion 1.0 by Manuel "StuFF mc" CARRASCO MOLINA)
 * LESS (CFBundleVersion 1.75 by monoceroi)
+* MooModes -- MooTools syntax highlighting including:
+	* MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
+	* HTML-MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
+	* PHP-MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
 
 ### Finding the Custom Modes
 
@@ -74,6 +78,8 @@ The GNU gettext strings (i18n), Makefile, and Django Template modes can be [down
 The YAML mode can be [downloaded from GitHub](http://github.com/stuffmc/YAML.mode).
 
 The LESS mode can be [downloaded from GitHub](http://github.com/monoceroi/LESS.mode).
+
+MooModes can be [downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
 
 ### Custom Mode Installation
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.MooTools">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#1e1e1e" inverted-background-color="#ececec" />
+  <style id="/MooTools/Keywords"
+    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Numbers"
+    color="#6c99bc" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Characters"
+    color="#6c99bc" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/FunctionRegex"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/AutodocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/SingleComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/Regular Expressions"
+    color="#8857d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/String"
+    color="#a0c260" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/SingleString"
+    color="#91b057" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
