@@ -64,10 +64,15 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * Django-Template (CFBundleVersion 1.0 - 1.1.6 by Joseph Bergantine)
 * YAML (CFBundleVersion 1.0 by Manuel "StuFF mc" CARRASCO MOLINA)
 * LESS (CFBundleVersion 1.75 by monoceroi)
-* MooModes -- MooTools syntax highlighting including:
-	* MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
-	* HTML-MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
-	* PHP-MooTools.mode (CFBundleVersion 1.0 by Jose Prado)
+* MooModes (MooTools syntax highlighting) by Jose Prado including:
+	* MooTools.mode (CFBundleVersion 1.0)
+	* HTML-MooTools.mode (CFBundleVersion)
+	* PHP-MooTools.mode (CFBundleVersion)
+* jQuery Modes by Kory Garner including:
+	* jQuery.mode (CFBundleVersion 1.5)
+	* HTML-jQuery.mode (CFBundleVersion 1.5)
+	* PHP-HTML-jQuery.mode (CFBundleVersion 1.9)
+* WordPress.mode (CFBundleVersion 1.0 by Jose Prado)
 
 ### Finding the Custom Modes
 
@@ -80,6 +85,10 @@ The YAML mode can be [downloaded from GitHub](http://github.com/stuffmc/YAML.mod
 The LESS mode can be [downloaded from GitHub](http://github.com/monoceroi/LESS.mode).
 
 MooModes can be [downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
+
+jQuery Modes can be [downloaded from digital sandbox](http://digitalsandbox.net/index.php/project/category/jquery_syntax_mode).
+
+The WordPress mode can be [downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
 
 ### Custom Mode Installation
 
