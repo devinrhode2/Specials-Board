@@ -62,7 +62,7 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * GNU gettext strings i18n (CFBundleVersion 1.0)
 * Makefile (CFBundleVersion 1.2)
 * Django-Template (CFBundleVersion 1.0 - 1.1.6 by Joseph Bergantine)
-* YAML (CFBundleVersion 1.0 by stuffmc)
+* YAML (CFBundleVersion 1.0 by Manuel "StuFF mc" CARRASCO MOLINA)
 * LESS (CFBundleVersion 1.75 by monoceroi)
 
 ### Finding the Custom Modes
