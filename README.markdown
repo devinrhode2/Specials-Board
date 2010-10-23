@@ -61,8 +61,9 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * bash (CFBundleVersion 1.2)
 * GNU gettext strings i18n (CFBundleVersion 1.0)
 * Makefile (CFBundleVersion 1.2)
-* Django-Template (CFBundleVersion 1.0 - 1.1.4 by Joseph Bergantine)
-* YAML (YAML.mode by stuffmc)
+* Django-Template (CFBundleVersion 1.0 - 1.1.6 by Joseph Bergantine)
+* YAML (CFBundleVersion 1.0 by stuffmc)
+* LESS (CFBundleVersion 1.75 by monoceroi)
 
 ### Finding the Custom Modes
 
@@ -71,6 +72,8 @@ The bash mode can be extracted from the SubEthaEdit package. View Rogier Spieker
 The GNU gettext strings (i18n), Makefile, and Django Template modes can be [downloaded from SubEthaEdit's mode page](http://www.codingmonkeys.de/subethaedit/modes.html). [A more up-to-date version of the Django Template mode can also be pulled from GitHub](http://github.com/jbergantine/Django-Template).
 
 The YAML mode can be [downloaded from GitHub](http://github.com/stuffmc/YAML.mode).
+
+The LESS mode can be [downloaded from GitHub](http://github.com/monoceroi/LESS.mode).
 
 ### Custom Mode Installation
 
