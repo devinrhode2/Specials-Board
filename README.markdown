@@ -61,7 +61,7 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * bash (CFBundleVersion 1.2)
 * GNU gettext strings i18n (CFBundleVersion 1.0)
 * Makefile (CFBundleVersion 1.2)
-* Django-Template (CFBundleVersion 2.0 by Joseph Bergantine)
+* Django-Template (CFBundleVersion 2.0.1 by Joseph Bergantine)
 * YAML (CFBundleVersion 1.0 by Manuel "StuFF mc" CARRASCO MOLINA)
 * LESS (CFBundleVersion 1.75 by monoceroi)
 * MooModes (MooTools syntax highlighting) by Jose Prado including:
