@@ -2,17 +2,17 @@
 <seestyle>
 <mode id="SEEMode.Django-Template">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#1a1a1a" inverted-background-color="#000000" />
   <style id="/Django-Template/Entities"
     color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Django-Template"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Template Tag"
     color="#cc7832" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/Context Variable"
-    color="#c9d0ff" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Template Tags"
     color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Django-Template/Context Variable"
+    color="#c9d0ff" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Context Variables"
     color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Filters"
@@ -45,17 +45,27 @@
     color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Strings in Tags"
     color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/Inside curly brackets"
+  <style id="/CSS/Inside curly brackets"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
     color="#cc762e" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/CSSComment"
+  <style id="/CSS/Attribute state"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#a0c25f" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/AutodocComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
-  <style id="/Django-Template/CSSRound bracket"
+  <style id="/CSS/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/String"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/CSSString"
+  <style id="/CSS/SingleString"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/CSSSingleString"
+  <style id="/CSS/URL"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Inline Javascript"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
@@ -71,19 +81,19 @@
     color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Opening Script Tag"
     color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/JSAutodocComment"
+  <style id="/Javascript/AutodocComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
-  <style id="/Django-Template/JSComment"
+  <style id="/Javascript/Comment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
-  <style id="/Django-Template/JSSingleComment"
+  <style id="/Javascript/SingleComment"
     color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
-  <style id="/Django-Template/JSRegEx"
-    color="#8856d2" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/JSEscaped Characters"
-    color="#BE73FD" inverted-color="#ff2f2f"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/JSString"
+  <style id="/Javascript/Regular Expressions"
+    color="#8856d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/String"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/JSSingleString"
+  <style id="/Javascript/SingleString"
     color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Tags"
     color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
