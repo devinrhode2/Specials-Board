@@ -73,6 +73,7 @@ Specials Board contains syntax highlighting for the following mode/version combi
 	* HTML-jQuery.mode (CFBundleVersion 1.5)
 	* PHP-HTML-jQuery.mode (CFBundleVersion 1.9)
 * WordPress.mode (CFBundleVersion 1.0 by Jose Prado)
+* CoffeeScript.mode by Sean Durham
 
 ### Finding the Custom Modes
 
@@ -89,6 +90,8 @@ MooModes can be [downloaded from pradador.com](http://pradador.com/code/coda/moo
 jQuery Modes can be [downloaded from digital sandbox](http://digitalsandbox.net/index.php/project/category/jquery_syntax_mode).
 
 The WordPress mode can be [downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
+
+The CoffeeScript mode can be [downloaded from nfiniteset](https://github.com/nfiniteset/CoffeeScript.mode).
 
 ### Custom Mode Installation
 
