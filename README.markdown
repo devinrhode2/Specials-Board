@@ -58,37 +58,26 @@ Coda is compatible with [SubEthaEdit modes](http://www.codingmonkeys.de/subethae
 
 Specials Board contains syntax highlighting for the following mode/version combinations:
 
-* bash (CFBundleVersion 1.2)
-* GNU gettext strings i18n (CFBundleVersion 1.0)
-* Makefile (CFBundleVersion 1.2)
-* Django-Template (CFBundleVersion 2.0.1 by Joseph Bergantine)
-* YAML (CFBundleVersion 1.0 by Manuel "StuFF mc" CARRASCO MOLINA)
-* LESS (CFBundleVersion 1.75 by monoceroi)
-* MooModes (MooTools syntax highlighting) by Jose Prado including:
-	* MooTools.mode (CFBundleVersion 1.0)
-	* HTML-MooTools.mode (CFBundleVersion)
-	* PHP-MooTools.mode (CFBundleVersion)
-* jQuery Modes by Kory Garner including:
+* bash. _See note below for installatiion instructions._
+* Django-Template by Joseph Bergantine. [Download from GitHub.](http://github.com/jbergantine/Django-Template)
+* GNU gettext strings i18n by Kiran Jonnalagadda. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
+* jQuery Modes by Kory Garner. [Downloaded from digital sandbox](http://digitalsandbox.net/index.php/project/category/jquery_syntax_mode).
 	* jQuery.mode (CFBundleVersion 1.5)
 	* HTML-jQuery.mode (CFBundleVersion 1.5)
 	* PHP-HTML-jQuery.mode (CFBundleVersion 1.9)
-* WordPress.mode (CFBundleVersion 1.0 by Jose Prado)
+* LESS by monoceroi [Download from GitHub.](http://github.com/monoceroi/LESS.mode)
+* Makefile by Scott Dunlop and Michael Barber. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
+* MooModes (MooTools syntax highlighting) by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
+	* MooTools.mode
+	* HTML-MooTools.mode
+	* PHP-MooTools.mode
+* SASS by Brajeshwar. [Download from GitHub.](https://github.com/Brajeshwar/Sass.mode)
+* WordPress.mode by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
+* YAML by Manuel "StuFF mc" CARRASCO MOLINA from GitHub. [Download from GitHub.](http://github.com/stuffmc/YAML.mode)
 
-### Finding the Custom Modes
+### Getting the Bash Mode
 
 The bash mode can be extracted from the SubEthaEdit package. View Rogier Spieker's instructions in the Coda Users Google Group under the thread [Syntax highlighting for shell scripts?](http://groups.google.com/group/coda-users/browse_thread/thread/22c3ff5eefce04ad/dfa3baebaa3afced?pli=1)
-
-The GNU gettext strings (i18n), Makefile, and Django Template modes can be [downloaded from SubEthaEdit's mode page](http://www.codingmonkeys.de/subethaedit/modes.html). [A more up-to-date version of the Django Template mode can also be pulled from GitHub](http://github.com/jbergantine/Django-Template).
-
-The YAML mode can be [downloaded from GitHub](http://github.com/stuffmc/YAML.mode).
-
-The LESS mode can be [downloaded from GitHub](http://github.com/monoceroi/LESS.mode).
-
-MooModes can be [downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
-
-jQuery Modes can be [downloaded from digital sandbox](http://digitalsandbox.net/index.php/project/category/jquery_syntax_mode).
-
-The WordPress mode can be [downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
 
 ### Custom Mode Installation
 
