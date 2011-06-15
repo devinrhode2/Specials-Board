@@ -6,4 +6,6 @@ Seestyles for the YAML custom syntax mode courtesy of [Andrew Porter](http://git
 
 Seestyles for the custom syntax modes: LESS, MooMode (MooTools), jQuery and WordPress courtesy of [Mark Learst](http://ipaintcode.com).
 
+Seestyles for the CoffeeScript custom syntax mode courtesy of [Christopher Hendrix](http://www.material-designer.com).
+
 Specials Board is based on Ryan Bates' beautiful [Railcast Theme for TextMate](http://railscasts.com/about) as well as its inspiration, [idlefingers by Damien Timewell](http://fluidsyntax.com/blog/articles/idlefingers-textmate-theme).

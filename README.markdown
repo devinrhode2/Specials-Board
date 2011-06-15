@@ -59,12 +59,14 @@ Coda is compatible with [SubEthaEdit modes](http://www.codingmonkeys.de/subethae
 Specials Board contains syntax highlighting for the following mode/version combinations:
 
 * bash. _See note below for installatiion instructions._
+* CoffeeScript mode by Sean Durham. [Downloaded from GitHub.](https://github.com/nfiniteset/CoffeeScript.mode)
 * Django-Template by Joseph Bergantine. [Download from GitHub.](http://github.com/jbergantine/Django-Template)
 * GNU gettext strings i18n by Kiran Jonnalagadda. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
 * jQuery Modes by Kory Garner. [Downloaded from digital sandbox](http://digitalsandbox.net/index.php/project/category/jquery_syntax_mode).
 	* jQuery.mode (CFBundleVersion 1.5)
 	* HTML-jQuery.mode (CFBundleVersion 1.5)
 	* PHP-HTML-jQuery.mode (CFBundleVersion 1.9)
+<<<<<<< HEAD
 * LESS by monoceroi [Download from GitHub.](http://github.com/monoceroi/LESS.mode)
 * Makefile by Scott Dunlop and Michael Barber. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
 * MooModes (MooTools syntax highlighting) by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
