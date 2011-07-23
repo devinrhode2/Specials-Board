@@ -2,17 +2,19 @@
 <seestyle>
 <mode id="SEEMode.Django-Template">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#1a1a1a" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#1d1d1d" inverted-background-color="#000000" />
   <style id="/Django-Template/Entities"
     color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Django-Template/Django Block Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Django-Template/Template Tag"
+    color="#5c4578" inverted-color="#ff2222"  font-style="normal" font-weight="bold" />
+  <style id="/Django-Template/Template Tags"
+    color="#a57bdb" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Django-Template"
     color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/Template Tag"
-    color="#cc7832" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
-  <style id="/Django-Template/Template Tags"
-    color="#cc7832" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Context Variable"
-    color="#c9d0ff" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
+    color="#8088af" inverted-color="#ff2222"  font-style="normal" font-weight="bold" />
   <style id="/Django-Template/Context Variables"
     color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Filters"
