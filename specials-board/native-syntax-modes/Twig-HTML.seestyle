@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Twig-HTML">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+  <style id="/Twig-HTML/Entities"
+    color="#6c99b7" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Twig"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Template Tag"
+    color="#cc7832" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Template Tags"
+    color="#da4632" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Double Quoted Strings"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Single Quoted Strings"
+    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Context Variable"
+    color="#cc7832" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Context Variables"
+    color="#cc9f4a" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Filters"
+    color="#a1617a" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/SGML Double Dash"
+    color="#cc4232" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Twig Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/CDATA"
+    color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/Doctype"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/Escape"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/Inline CSS"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Style Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Opening Style Tag"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Attributes in Tags"
+    color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Strings in Tags"
+    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Single Strings in Tags"
+    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Inline Javascript"
+    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Script Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Keywords"
+    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Opening Script Tag"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/JSAutodocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+
+  <style id="/Twig-HTML/JSComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/JSSingleComment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Twig-HTML/JSRegEx"
+    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/JSEscaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/JSString"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/JSSingleString"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Twig-HTML/Tags"
+    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
