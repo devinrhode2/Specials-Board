@@ -74,6 +74,7 @@ Specials Board contains syntax highlighting for the following mode/version combi
 	* HTML-MooTools.mode
 	* PHP-MooTools.mode
 * SASS by Brajeshwar. [Download from GitHub.](https://github.com/Brajeshwar/Sass.mode)
+* Twig-HTML by OliverJAsh.[Download from GitHub.](https://github.com/OliverJAsh/Twig-HTML.mode)
 * WordPress.mode by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
 * YAML by Manuel "StuFF mc" CARRASCO MOLINA from GitHub. [Download from GitHub.](http://github.com/stuffmc/YAML.mode)
 
