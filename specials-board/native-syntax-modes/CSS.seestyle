@@ -2,28 +2,28 @@
 <seestyle>
 <mode id="SEEMode.CSS">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#2b2b2b" />
   <style id="/CSS/Inside curly brackets"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#cc762e" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#a0c25f" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/AutodocComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/CSS/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/CSS/String"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/URL"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>

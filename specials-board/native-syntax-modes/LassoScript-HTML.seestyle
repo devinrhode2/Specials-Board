@@ -2,128 +2,128 @@
 <seestyle>
 <mode id="SEEMode.LassoScript-HTML">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#2b2b2b" />
   <style id="/XML/Entities"
-    color="#6c99bb" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript 1"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript Block"
-    color="#dd8400" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
+    color="#dd8400" inverted-color="#dd8400"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Default Lasso Tags"
-    color="#ffc05c" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Default Lasso Types"
-    color="#ffc05c" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Dynamic Lasso Member Tags"
-    color="#7fa8f4" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#7fa8f4" inverted-color="#7fa8f4"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Dynamic Lasso Tags/Types"
-    color="#7fa8f4" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#7fa8f4" inverted-color="#7fa8f4"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Lasso Tag/Type Parameters"
-    color="#d04a50" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#d04a50" inverted-color="#d04a50"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Numbers"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Variables"
-    color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/SingleComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/LassoScript-HTML/MultiComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/LassoScript-HTML/StringDouble"
-    color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/String"
-    color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript 2"
-    color="#cc7832" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Inline CSS"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/HTML Comment Tag"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/LassoScript-HTML/Style Tags"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Opening Style Tag"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
-    color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/XML/Single Strings in Tags"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/Inside curly brackets"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#cc762e" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#6c99bb" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/AutodocComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/CSS/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/CSS/String"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/URL"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Inline Javascript"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/HTML Comment Tag2"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/LassoScript-HTML/Script Tags"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Opening Script Tag"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/AutodocComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/SingleComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Regular Expressions"
-    color="#8856d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#8856d2" inverted-color="#8856d2"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Escaped Characters"
-    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+    color="#be73fd" inverted-color="#be73fd"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/String"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/SingleString"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/XML/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/XML/SGML Double Dash"
-    color="#cc4232" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+    color="#cc4232" inverted-color="#cc4232"  font-style="normal" font-weight="normal" />
   <style id="/XML/CDATA"
-    color="#cc4232" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+    color="#cc4232" inverted-color="#cc4232"  font-style="italic" font-weight="normal" />
   <style id="/XML/Doctype"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/XML/Escape"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/LassoScript-HTML/Tags"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Tag Attributes"
-    color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Strings in Tags"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript Block in Strings"
-    color="#68a2c6" inverted-color="#003ad3"  font-style="normal" font-weight="normal" />
+    color="#68a2c6" inverted-color="#68a2c6"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript Variables in Strings"
-    color="#68a2c6" inverted-color="#003ad3"  font-style="normal" font-weight="normal" />
+    color="#68a2c6" inverted-color="#68a2c6"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/Strings in Tags 2"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript in Tags"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/LassoScript-HTML/LassoScript Code"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>

@@ -2,138 +2,138 @@
 <seestyle>
 <mode id="SEEMode.Example Syntax">
   <style id="_Default"
-    color="#ff0000" inverted-color="#00ff00"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+    color="#ff0000" inverted-color="#ff0000"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#2b2b2b" />
   <style id="/YAML/Keywords"
-    color="#cc762e" inverted-color="#fa93ce"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/YAML/Other keywords"
-    color="#f0984a" inverted-color="#bf7fff"  font-style="italic" font-weight="normal" />
+    color="#f0984a" inverted-color="#f0984a"  font-style="italic" font-weight="normal" />
   <style id="/YAML/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/YAML/String"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/YAML/Inline Javascript"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/YAML/Script Tags"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="italic" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/YAML/Opening Script Tag"
-    color="#ffc05c" inverted-color="#ed77e5"  font-style="italic" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="italic" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
-    color="#cc7832" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/XML/Single Strings in Tags"
-    color="#a0c25f" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/AutodocComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/SingleComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/Javascript/Regular Expressions"
-    color="#8857d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#8857d2" inverted-color="#8857d2"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Escaped Characters"
-    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+    color="#be73fd" inverted-color="#be73fd"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/String"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/SingleString"
-    color="#a0c25f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Delimiter"
-    color="#cc7832" inverted-color="#ff2222"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP4 Functions"
-    color="#da4632" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Keywords"
-    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Magic Constants"
-    color="#a1617a" inverted-color="#9e5e77"  font-style="normal" font-weight="normal" />
+    color="#a1617a" inverted-color="#a1617a"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Magic Methods"
-    color="#da4632" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Numbers"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/FunctionRegex"
-    color="#da4632" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Variables"
-    color="#c9d0ff" inverted-color="#ffd67d"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Comment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/PHP SingleComment"
-    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML/PHP String"
-    color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Expanded Variables"
-    color="#c9d0ff" inverted-color="#e96b36"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Expanded Variables 2"
-    color="#c9d0ff" inverted-color="#e96b36"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP String2"
-    color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Heredoc"
-    color="#a0c25f" inverted-color="#ff8714"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/YAML/Ruby"
-    color="#e6e1dc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+    color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/YAML/ERB Delimiter"
-    color="#cc7832" inverted-color="#ff2f2f"  font-style="normal" font-weight="normal" />
+    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Literals"
-    color="#6c99bb" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Attribute Definitions"
-    color="#6c99bb" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Definitions"
-    color="#cc762e" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Keywords"
-    color="#cc762e" inverted-color="#7d9ffa"  font-style="normal" font-weight="normal" />
+    color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Functions"
-    color="#da4632" inverted-color="#9469f9"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Classes"
-    color="#ffc05c" inverted-color="#9469f9"  font-style="normal" font-weight="normal" />
+    color="#ffc05c" inverted-color="#ffc05c"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Globals"
-    color="#da4632" inverted-color="#9e5e77"  font-style="normal" font-weight="normal" />
+    color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
-    color="#6c99bb" inverted-color="#4afc5b"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Symbols"
-    color="#c9d0ff" inverted-color="#fac586"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Instance Variables"
-    color="#c9d0ff" inverted-color="#6699cc"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Class Variables"
-    color="#63a6a6" inverted-color="#73ffff"  font-style="normal" font-weight="normal" />
+    color="#63a6a6" inverted-color="#63a6a6"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Global Variables"
-    color="#b480ab" inverted-color="#a370a8"  font-style="normal" font-weight="normal" />
+    color="#b480ab" inverted-color="#b480ab"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Hexadecimal Characters"
-    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+    color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with double quotes"
-    color="#a0c25f" inverted-color="#f28720"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Embedded Expression"
-    color="#c9d0ff" inverted-color="#737373"  font-style="normal" font-weight="normal" />
+    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with single quotes"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q1"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent /"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q2"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q3"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with parenthesis"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Heredoc"
-    color="#a0c25f" inverted-color="#f48700"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Backticks"
-    color="#a0c25f" inverted-color="#669999"  font-style="normal" font-weight="normal" />
+    color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Singleline Comment"
-    color="#666666" inverted-color="#ff4a4a"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Regexp"
-    color="#8857d2" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+    color="#8857d2" inverted-color="#8857d2"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/Escaped Characters"
-    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+    color="#be73fd" inverted-color="#be73fd"  font-style="normal" font-weight="normal" />
   <style id="/Ruby/POD Comments"
-    color="#666666" inverted-color="#ff7f7f"  font-style="normal" font-weight="normal" />
+    color="#666666" inverted-color="#666666"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>
