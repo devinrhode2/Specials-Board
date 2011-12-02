@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Apache">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#212121" inverted-background-color="#000000" />
+  <style id="/Apache/Keywords"
+    color="#cc762e" inverted-color="#7777ff"  font-style="normal" font-weight="normal" />
+  <style id="/Apache/Block directives"
+    color="#ffc05c" inverted-color="#80ffe6"  font-style="normal" font-weight="normal" />
+  <style id="/Apache/Singleline Comment"
+    color="#666666" inverted-color="#b380b3"  font-style="italic" font-weight="normal" />
+</mode>
+</seestyle>

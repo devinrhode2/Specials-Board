@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Lua">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/Lua/Literals"
+    color="#84a9c7" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Keywords"
+    color="#cc762e" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Basic Functions"
+    color="#da4632" inverted-color="#bf7fff"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Libraries"
+    color="#9e5221" inverted-color="#bf7fff"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Library Functions"
+    color="#da4632" inverted-color="#bf7fff"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/MetaTableKeywords"
+    color="#f0984a" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Numbers"
+    color="#6c99bb" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/Multiline Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Lua/Singleline Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Lua/Multiline String"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="italic" font-weight="normal" />
+  <style id="/Lua/String with single quotes"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/Lua/String"
+    color="#a0c25f" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
