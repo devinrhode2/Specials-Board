@@ -3,35 +3,29 @@
 <mode id="SEEMode.bash">
   <style id="_Default"
     color="#000000" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#2b2b2b" />
-  <style id="/bash/Keywords"
+  <style id="/C/Keywords"
     color="#cc762e" inverted-color="#cc762e"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Keywords for Variables"
+  <style id="/C/Keywords for Variables"
     color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Builtin functions"
+  <style id="/C/Builtin functions"
     color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Unix commands"
+  <style id="/C/Unix commands"
     color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Numbers"
+  <style id="/C/Numbers"
     color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Characters"
+  <style id="/C/Characters"
     color="#6c99bb" inverted-color="#6c99bb"  font-style="normal" font-weight="normal" />
-  <style id="/bash/FunctionRegex"
+  <style id="/C/FunctionRegex"
     color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Preprocessor"
+  <style id="/C/Preprocessor"
     color="#8d5526" inverted-color="#8d5526"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Variables"
-    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
-  <style id="/bash/SingleComment"
+  <style id="/C/SingleComment"
     color="#666666" inverted-color="#666666"  font-style="italic" font-weight="normal" />
-  <style id="/bash/String with double quotes"
+  <style id="/C/String with double quotes"
     color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Variables in double quoted Strings"
-    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
-  <style id="/bash/String with single quotes"
+  <style id="/C/String with single quotes"
     color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Variables in single quoted Strings"
-    color="#c9d0ff" inverted-color="#c9d0ff"  font-style="normal" font-weight="normal" />
-  <style id="/bash/Backticks"
+  <style id="/C/Backticks"
     color="#a0c25f" inverted-color="#a0c25f"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>
