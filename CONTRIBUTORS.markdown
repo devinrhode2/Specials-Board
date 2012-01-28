@@ -10,4 +10,6 @@ Seestyles for the CoffeeScript custom syntax mode courtesy of [Christopher Hendr
 
 Seestyle for the Twig-HTML custom syntax mode courtesy of [jturo](https://github.com/jturo).
 
+Seestyles for the custom syntax mdoes: bash (revised), Lua and Apache courtesy of [Jesse Overton](https://github.com/ovrtn). 
+
 Specials Board is based on Ryan Bates' beautiful [Railcast Theme for TextMate](http://railscasts.com/about) as well as its inspiration, [idlefingers by Damien Timewell](http://fluidsyntax.com/blog/articles/idlefingers-textmate-theme).

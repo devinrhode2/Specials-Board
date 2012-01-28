@@ -58,6 +58,7 @@ Coda is compatible with [SubEthaEdit modes](http://www.codingmonkeys.de/subethae
 
 Specials Board contains syntax highlighting for the following mode/version combinations:
 
+* Apache config files by Andy Stark and Indiver Nagpal. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
 * bash. _See note below for installatiion instructions._
 * CoffeeScript mode by Sean Durham. [Downloaded from GitHub.](https://github.com/nfiniteset/CoffeeScript.mode)
 * Django-Template by Joseph Bergantine. [Download from GitHub.](http://github.com/jbergantine/Django-Template)
@@ -66,7 +67,7 @@ Specials Board contains syntax highlighting for the following mode/version combi
 	* jQuery.mode (CFBundleVersion 1.5)
 	* HTML-jQuery.mode (CFBundleVersion 1.5)
 	* PHP-HTML-jQuery.mode (CFBundleVersion 1.9)
-<<<<<<< HEAD
+* Lua. _See note below for installatiion instructions._
 * LESS by monoceroi [Download from GitHub.](http://github.com/monoceroi/LESS.mode)
 * Makefile by Scott Dunlop and Michael Barber. [Download from the SubEthaEdit Modes page.](http://www.codingmonkeys.de/subethaedit/modes.html)
 * MooModes (MooTools syntax highlighting) by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/moomode/).
@@ -78,9 +79,9 @@ Specials Board contains syntax highlighting for the following mode/version combi
 * WordPress.mode by Jose Prado. [Downloaded from pradador.com](http://pradador.com/code/coda/wordpressmode/).
 * YAML by Manuel "StuFF mc" CARRASCO MOLINA from GitHub. [Download from GitHub.](http://github.com/stuffmc/YAML.mode)
 
-### Getting the Bash Mode
+### Getting the Bash and Lua Modes
 
-The bash mode can be extracted from the SubEthaEdit package. View Rogier Spieker's instructions in the Coda Users Google Group under the thread [Syntax highlighting for shell scripts?](http://groups.google.com/group/coda-users/browse_thread/thread/22c3ff5eefce04ad/dfa3baebaa3afced?pli=1)
+The Bash mode and Lua mode can be extracted from the SubEthaEdit 2.2 application package. For a path to SubEthaEdit 2.2 (the current release at the time of this writing is 3.5.4) see [this thread on the Coda Users Google Group](https://groups.google.com/forum/#!topic/coda-users/VYPSvwtnzEM). For instructions on extracting the modes from the application package see Rogier Spieker's instructions in the Coda Users Google Group under the thread [Syntax highlighting for shell scripts?](http://groups.google.com/group/coda-users/browse_thread/thread/22c3ff5eefce04ad/dfa3baebaa3afced?pli=1)
 
 ### Custom Mode Installation
 
