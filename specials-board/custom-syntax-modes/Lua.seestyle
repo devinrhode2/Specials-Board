@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.Lua">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+    color="#000000" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#2b2b2b" inverted-background-color="#2b2b2b" />
   <style id="/Lua/Literals"
     color="#84a9c7" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
   <style id="/Lua/Keywords"
