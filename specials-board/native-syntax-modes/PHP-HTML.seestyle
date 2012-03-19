@@ -8,7 +8,7 @@
   <style id="/PHP-HTML/PHP"
     color="#e6e1dc" inverted-color="#e6e1dc"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Delimiter"
-    color="#cc7832" inverted-color="#cc7832"  font-style="normal" font-weight="normal" />
+    color="#5c4578" inverted-color="#5c4578"  font-style="normal" font-weight="bold" />
   <style id="/PHP-HTML/PHP4 Functions"
     color="#da4632" inverted-color="#da4632"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP Keywords"
