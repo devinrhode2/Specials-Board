@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.Javascript">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#1e1e1a" inverted-background-color="#000000" />
+  <style id="/Javascript/Keywords"
+    color="#da3464" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#9077fc" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#9077fc" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#74cee2" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/AutodocComment"
+    color="#615d4c" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Comment"
+    color="#615d4c" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/SingleComment"
+    color="#615d4c" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Regular Expressions"
+    color="#760f15" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/String"
+    color="#e6d77a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/SingleString"
+    color="#e0cf66" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
